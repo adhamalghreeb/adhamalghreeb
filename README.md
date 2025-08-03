@@ -3,7 +3,7 @@
 
 <p align="center">Focused on building scalable backend systems and delivering clean, maintainable code.</p>
 
-- 🎯 I’m currently working on **.NET 8 API-driven projects** focusing on clean architecture and real-time applications.
+- 🎯 I’m currently working on **.NET API-driven projects** focusing on clean architecture and real-time applications.
 - 🌱 Currently learning **Azure Cloud Development** through hands-on projects.
 - 🛠️ Experienced with **ASP.NET Core, Python, SQL Server, Redis, Docker**, and integrating **Stripe Payments & SignalR**.
 - 📫 Reach me at **adhamghreeb@gmail.com**
